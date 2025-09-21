@@ -1,0 +1,12 @@
+/*# ==============================================================================
+# ARQUIVO: static/css/style.css
+# DESCRIÇÃO: Arquivo de estilos CSS customizados.
+# ==============================================================================*/
+/* Estilos globais ou customizações do Tailwind podem ser adicionados aqui */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Adicione aqui quaisquer outros estilos que não sejam facilmente feitos com Tailwind */

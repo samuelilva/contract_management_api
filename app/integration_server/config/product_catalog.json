@@ -1,0 +1,434 @@
+[
+  {
+    "product_group": "Camisa Operacional",
+    "image_code": "PA_00950",
+    "quantidade_inicial_contrato": "489",
+    "valor_unitario": "R$ 79,50",
+    "variants": [
+      {
+        "codigo": "PA 00950",
+        "modelo": "Único",
+        "descricao": "Camisa operacional manga curta - Cinza mescla com recorte e porta crachá.",
+        "atributos": [
+          "Gola Italiana",
+          "Manga reta",
+          "Estampa bordado",
+          "Faixa refletiva 2,5 cm",
+          "1 Bolso",
+          "Fornecedor Santista"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Calça Operacional",
+    "image_code": "PA_00951",
+    "quantidade_inicial_contrato": "500",
+    "valor_unitario": "R$ 79,50",
+    "variants": [
+      {
+        "codigo": "PA 00951",
+        "modelo": "Único",
+        "descricao": "Calça operacional - Cinza mescla com reforço.",
+        "atributos": [
+          "Barra overlock",
+          "Faixa refletiva 2,5 cm",
+          "Estampa bordado",
+          "6 Bolsos",
+          "Fornecedor Santista"
+        ],
+        "tamanhos": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58",
+          "60"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Polo Verde",
+    "image_code": "PA_00952_verde",
+    "quantidade_inicial_contrato": "542",
+    "valor_unitario": "R$ 59,90",
+    "variants": [
+      {
+        "codigo": "PA 00952 - Verde",
+        "modelo": "Masculino",
+        "descricao": "Camisa polo verde bandeira.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      },
+      {
+        "codigo": "PA 00965 - Verde",
+        "modelo": "Feminino",
+        "descricao": "Babylook polo verde bandeira.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Polo Branca",
+    "image_code": "PA_00952_branca",
+    "quantidade_inicial_contrato": "60",
+    "valor_unitario": "R$ 59,90",
+    "variants": [
+      {
+        "codigo": "PA 00952 - Branca",
+        "modelo": "Masculino",
+        "descricao": "Camisa polo branca.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      },
+      {
+        "codigo": "PA 00965 - Branca",
+        "modelo": "Feminino",
+        "descricao": "Babylook polo branca.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Polo Cinza",
+    "image_code": "PA_00952_cinza",
+    "quantidade_inicial_contrato": "60",
+    "valor_unitario": "R$ 59,90",
+    "variants": [
+      {
+        "codigo": "PA 00951 - Cinza",
+        "modelo": "Masculino",
+        "descricao": "Camisa polo cinza.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      },
+      {
+        "codigo": "PA 00965 - Cinza",
+        "modelo": "Feminino",
+        "descricao": "Babylook polo cinza.",
+        "atributos": [
+          "Gola tricot",
+          "Manga punho",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Social Branca",
+    "image_code": "PA_00953_branca",
+    "quantidade_inicial_contrato": "60",
+    "valor_unitario": "R$ 85,90",
+    "variants": [
+      {
+        "codigo": "PA 00953 - Branca",
+        "modelo": "Masculino",
+        "descricao": "Camisa social manga longa branca.",
+        "atributos": [
+          "Gola colarinho",
+          "Manga reta",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "T1",
+          "T2",
+          "T3",
+          "T4",
+          "T5",
+          "T6",
+          "T7"
+        ]
+      },
+      {
+        "codigo": "PA 00954 - Branca",
+        "modelo": "Feminino",
+        "descricao": "Camisete manga longa branca.",
+        "atributos": [
+          "Gola colarinho",
+          "Manga reta",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "T1",
+          "T2",
+          "T3",
+          "T4",
+          "T5",
+          "T6",
+          "T7"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Social Verde",
+    "image_code": "PA_00953_verde",
+    "quantidade_inicial_contrato": "60",
+    "valor_unitario": "R$ 85,90",
+    "variants": [
+      {
+        "codigo": "PA 00953 - Verde",
+        "modelo": "Masculino",
+        "descricao": "Camisa social manga longa verde bandeira.",
+        "atributos": [
+          "Gola colarinho",
+          "Manga reta",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "T1",
+          "T2",
+          "T3",
+          "T4",
+          "T5",
+          "T6",
+          "T7"
+        ]
+      },
+      {
+        "codigo": "PA 00954 - Verde",
+        "modelo": "Feminino",
+        "descricao": "Camisete manga longa verde bandeira.",
+        "atributos": [
+          "Gola colarinho",
+          "Manga reta",
+          "Estampa bordado",
+          "Sem Bolsos",
+          "Fornecedor Doptex"
+        ],
+        "tamanhos": [
+          "T1",
+          "T2",
+          "T3",
+          "T4",
+          "T5",
+          "T6",
+          "T7"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Agasalho Canguru",
+    "image_code": "PA_00955",
+    "quantidade_inicial_contrato": "10",
+    "valor_unitario": "R$ 95,00",
+    "variants": [
+      {
+        "codigo": "PA 00955",
+        "modelo": "Único",
+        "descricao": "Agasalho canguru de moletom verde bandeira.",
+        "atributos": [
+          "Barra em punho",
+          "Manga em punho",
+          "Estampa bordado",
+          "Bolso canguru",
+          "Fornecedor XT Textil"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Calça Jeans",
+    "image_code": "PA_01028",
+    "quantidade_inicial_contrato": "252",
+    "valor_unitario": "R$ 75,90",
+    "variants": [
+      {
+        "codigo": "PA 01028",
+        "modelo": "Masculino",
+        "descricao": "Calça jeans masculina preta com elastano.",
+        "atributos": [
+          "Barra reta",
+          "Estampa bordado",
+          "4 Bolsos",
+          "Fornecedor Worktex"
+        ],
+        "tamanhos": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58",
+          "60"
+        ]
+      },
+      {
+        "codigo": "PA 00957",
+        "modelo": "Feminino",
+        "descricao": "Calça jeans feminina preta com elastano.",
+        "atributos": [
+          "Barra reta",
+          "Estampa bordado",
+          "4 Bolsos",
+          "Fornecedor Worktex"
+        ],
+        "tamanhos": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58",
+          "60"
+        ]
+      }
+    ]
+  },
+  {
+    "product_group": "Calça de Motoqueiro",
+    "image_code": "PA_00956",
+    "quantidade_inicial_contrato": "144",
+    "valor_unitario": "R$ 118,00",
+    "variants": [
+      {
+        "codigo": "PA 00956",
+        "modelo": "Único",
+        "descricao": "Calça de motoqueiro de brim preta.",
+        "atributos": [
+          "Barra reta",
+          "Estampa bordado",
+          "2 Bolsos",
+          "Fornecedor Valença"
+        ],
+        "tamanhos": [
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG",
+          "EXGG"
+        ]
+      }
+    ]
+  }
+]

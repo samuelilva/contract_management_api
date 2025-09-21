@@ -1,0 +1,26 @@
+# --- CONTEÚDO DO ARQUIVO: .gitignore ---
+# # Ambientes Virtuais
+venv/
+*.pyc
+__pycache__/
+# # Arquivos de configuração local e de instância
+.env
+instance/
+
+# Logs
+*.log
+logs/
+app/auth_server/logs/
+app/request_server/logs/
+app/integration_server/logs/
+
+# # Arquivos de usuário
+user.json
+
+# # Arquivos de inicialização do sistema
+/app/utils/
+
+# # arquivos estáticos
+app/static/
+app/auth_server/templates/
+app/request_server/templates/

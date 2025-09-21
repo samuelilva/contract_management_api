@@ -1,0 +1,23 @@
+
+# ==============================================================================
+# ARQUIVO: requirements.txt
+# DESCRIÇÃO: Lista de dependências Python para o projeto.
+#            Instale com: pip install -r requirements.txt
+# ==============================================================================
+requests==2.28.1
+pytest==7.1.2
+Flask==3.0.3
+httpx==0.27.0
+python-dotenv==1.0.1
+Flask-Talisman==1.1.0
+Flask-Limiter==3.6.0
+cryptography
+ipfshttpclient
+fpdf
+pillow
+psycopg2-binary
+# Para a biblioteca MultiChain, a instalação pode variar.
+# A recomendação é usar uma biblioteca wrapper como 'savior-multichain'
+# pip install savior-multichain
+# Ou interagir via JSON-RPC diretamente com 'requests'.
+# Por simplicidade, o utils/blockchain.py usará requests.

@@ -1,0 +1,27 @@
+[
+  {
+	"login": "clientest",
+	"representante": "reptest",
+	"senha_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
+	"nomus_client_id": 3543,
+	"nomus_rep_id": 6242,
+	"role": "cliente",
+	"senha_contract_hash": "e204b289afdea9b9793e47fc30257a8f318b716291ff5af0d02755026dac539b"
+  },
+  {
+	"login": "clientest",
+	"representante": "entregatest",
+	"senha_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
+	"nomus_client_id": 3543,
+	"nomus_rep_id": 0,
+	"role": "entregador"
+  },
+  {
+	"login": "clientest",
+	"representante": "finantest",
+	"senha_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
+	"nomus_client_id": 3543,
+	"nomus_rep_id": 0,
+	"role": "financeiro"
+  }
+]
